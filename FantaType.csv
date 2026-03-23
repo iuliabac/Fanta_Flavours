@@ -1,8 +1,8 @@
-FantaCode,RegionalCode,Flavour,Country,Type
-,7839194,Apple-lychee,Czechia,Zero Sugar
-,23-0543-NL,Lemon,Nederlands,Zero Sugar
-,23-0547-NL,Cassis,Nederlands,Regular
-,24-5829-NL,Orange,Nederlands,Zero Sugar
-,25-5138-NL,Pineapple-Grapefruit,Nederlands,Zero Sugar
-M6CA26BN,23-0537-NL,Exotic Taste,Nederlands,Zero Sugar
-5G61AB17A,25-5659-NL,Crimson Cherry
+FantaCode,Flavour,Country,RegionalCode,Type
+,Apple-lychee,Czechia,7839194,Zero Sugar
+,Cassis,Nederlands,23-0547-NL,Regular
+5G61AB17A,Crimson Cherry,Nederlands,25-5659-NL,Regular
+M6CA26BN,Exotic Taste,Nederlands,23-0537-NL,Zero Sugar
+,Lemon,Nederlands,23-0543-NL,Zero Sugar
+,Orange,Nederlands,24-5829-NL,Zero Sugar
+,Pineapple-Grapefruit,Nederlands,25-5138-NL,Zero Sugar
